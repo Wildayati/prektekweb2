@@ -1,4 +1,4 @@
-<!-- Page Heading/Breadcrumbs -->
+        <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">Blog Home One
@@ -11,3 +11,8 @@
                 </ol>
             </div>
         </div>
+        <!-- /.row -->
+        <div class="row">
+
+            <!-- Blog Entries Column -->
+            <div class="col-md-8">
