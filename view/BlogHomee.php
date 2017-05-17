@@ -15,6 +15,4 @@ class BlogHomee extends View
 	}
 }
 
-
-
  ?>
